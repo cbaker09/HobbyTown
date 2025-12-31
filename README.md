@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ### 2. Run the Application
 
 ```bash
-streamlit run store_route_planner.py
+streamlit run main.py
 ```
 
 The app will open in your browser at `http://localhost:8501`
